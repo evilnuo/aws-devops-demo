@@ -12,6 +12,9 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn package
+cache:
+  paths:
+    - '/root/.m2/**/*'
 artifacts:
   files:
     - target/test01.war
