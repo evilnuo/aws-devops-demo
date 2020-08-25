@@ -6,7 +6,8 @@
 
 ### Build Status 2
 
-[![Build Status](http://52.83.135.84:3306/job/pipeline-test/badge/icon)](http://52.83.135.84:3306/job/pipeline-test/)
+[![Build Status](http://52.83.135.84:3306/job/gkn_nike_poc_pipeline_version/badge/icon)](http://52.83.135.84:3306/job/gkn_nike_poc_pipeline_version/)
+
  
 
 
